@@ -24,3 +24,12 @@ body {
   padding: 0;
   border: 0;
 }
+
+.perspective-decoration {
+  background-color: hsl(195deg, 20%, 86%);
+  height: 40vh;
+  position: fixed;
+  top: 60vh;
+  right: 0;
+  left: 0;
+}
